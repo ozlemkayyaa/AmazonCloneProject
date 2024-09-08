@@ -51,23 +51,23 @@ veya
 ## UI 
 
 ### User
-<img src = "https://github.com/user-attachments/assets/40b620ce-e9b7-4ff0-a982-d89e9f4b034d" alt="alt text" width="150">
-<img src = "https://github.com/user-attachments/assets/d6cc4868-467d-433f-98cb-25467ea86804" alt="alt text" width="150">
-<img src = "https://github.com/user-attachments/assets/8d37d183-a9da-460f-be84-bb66383b2269" alt="alt text" width="150">
-<img src = "https://github.com/user-attachments/assets/fd493ff0-9784-4591-b266-7690254eb42b" alt="alt text" width="150">
-<img src = "https://github.com/user-attachments/assets/53f442bd-2f2c-45ec-88bb-eb34c066fa36" alt="alt text" width="150">
-<img src = "https://github.com/user-attachments/assets/7d9bbb03-f058-4288-b7d4-2bb8f2d11af8" alt="alt text" width="150">
-<img src = "https://github.com/user-attachments/assets/a5ebc383-871e-4d68-a733-24fd04b99747" alt="alt text" width="150">
-<img src = "https://github.com/user-attachments/assets/a5ed6a36-ceaa-4b9d-a591-9b4a68061596" alt="alt text" width="150">
-<img src = "https://github.com/user-attachments/assets/a41dce2e-8998-4a9d-be1f-f020500dadc7" alt="alt text" width="150">
-<img src = "https://github.com/user-attachments/assets/da6b0c41-b19b-45f0-af3a-135a97bef419" alt="alt text" width="150">
+<img src = "https://github.com/user-attachments/assets/5cb973f9-e466-480c-95fa-5cddd33eadf9" alt="alt text" width="150">
+<img src = "https://github.com/user-attachments/assets/eddbf0b8-af8c-4ff5-a52e-31df849fc6c8" alt="alt text" width="150">
+<img src = "https://github.com/user-attachments/assets/6fa655b7-8ead-4967-8adf-5f6fb7ce35b0" alt="alt text" width="150">
+<img src = "https://github.com/user-attachments/assets/45d1c223-5a7a-43ea-9e9c-cd5918ec0449b" alt="alt text" width="150">
+<img src = "https://github.com/user-attachments/assets/7d8125fc-e01b-4eaf-996f-4090aa0caa9b" alt="alt text" width="150">
+<img src = "https://github.com/user-attachments/assets/4d8194c5-335b-415e-a3ee-055816dc4d7c" alt="alt text" width="150">
+<img src = "https://github.com/user-attachments/assets/31677f18-1232-40eb-97bc-ab28d85ab482" alt="alt text" width="150">
+<img src = "https://github.com/user-attachments/assets/9ab91350-7bfa-4510-a0ac-2df816a40c77" alt="alt text" width="150">
+<img src = "https://github.com/user-attachments/assets/aef948f7-0899-488e-b323-c01ba6dfe417" alt="alt text" width="150">
+<img src = "https://github.com/user-attachments/assets/c7617c55-2d47-40ce-8f30-d0bf90a5979b" alt="alt text" width="150">
 
 ### Admin
-<img src = "https://github.com/user-attachments/assets/205617fb-3703-4534-8c93-456b19b0681f" alt="alt text" width="150">
-<img src = "https://github.com/user-attachments/assets/4b5986d7-7740-4d9f-b963-0f43e85ec2fa" alt="alt text" width="150">
-<img src = "https://github.com/user-attachments/assets/25b7573f-315f-4592-9140-d2c2a4984c9a" alt="alt text" width="150">
-<img src = "https://github.com/user-attachments/assets/0a25231e-d716-4072-b47c-fe04f5d05ad9" alt="alt text" width="150">
-<img src = "https://github.com/user-attachments/assets/fa0f866f-c27a-4229-992f-45c96f7e8b36" alt="alt text" width="150">
+<img src = "https://github.com/user-attachments/assets/f8b11324-cf46-4233-b080-99b3311cb6c1" alt="alt text" width="150">
+<img src = "https://github.com/user-attachments/assets/1330f27f-8ce1-44b9-af51-477d75a970e4" alt="alt text" width="150">
+<img src = "https://github.com/user-attachments/assets/189058df-5d02-4fa3-b831-a120924c352d" alt="alt text" width="150">
+<img src = "https://github.com/user-attachments/assets/6772f903-f3d1-4cda-8ee1-e57d85afbcf4" alt="alt text" width="150">
+<img src = "https://github.com/user-attachments/assets/23efbadf-f00d-44c7-a834-c2ae2e6fd283" alt="alt text" width="150">
 
 #
 
